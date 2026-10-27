@@ -1,6 +1,6 @@
 # Olá, tudo bem? 👋
 
-Meu nome é Aluizio. Sou profissional de tecnologia com experiência em desenvolvimento de sistemas para logística. Iniciei minha carreira em 2003 e sigo na mesma empresa, trabalhando com produtos voltados para **TMS** e **WMS**.
+Meu nome é Aluizio. Sou profissional de tecnologia com experiência em desenvolvimento de sistemas para logística. Iniciei minha carreira em 2003 na Logocenter, atualmente Totvs, e sigo na mesma empresa, trabalhando com produtos voltados para **TMS** e **WMS**.
 
 ## Minha trajetória
 
